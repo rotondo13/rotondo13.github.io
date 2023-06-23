@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ecd81a5.css",
-    "main.js": "/static/js/main.07eac6be.js",
+    "main.css": "/static/css/main.945638fd.css",
+    "main.js": "/static/js/main.4fe40e63.js",
     "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
     "static/media/hac_hero_landscape_projektmanagement_1920_1080.jpg": "/static/media/hac_hero_landscape_projektmanagement_1920_1080.3314641822e960e158c6.jpg",
     "static/media/hac_hero_landscape_bauueberwachung_1920_1080.jpg": "/static/media/hac_hero_landscape_bauueberwachung_1920_1080.128486f02613e7871ba0.jpg",
@@ -46,12 +46,12 @@
     "static/media/gvl_logo_rgb_weiss_grau.png": "/static/media/gvl_logo_rgb_weiss_grau.842c2d5888e7bde623db.png",
     "static/media/hac_header_location.svg": "/static/media/hac_header_location.3e9bf820513562375b43eb19edd683d0.svg",
     "index.html": "/index.html",
-    "main.3ecd81a5.css.map": "/static/css/main.3ecd81a5.css.map",
-    "main.07eac6be.js.map": "/static/js/main.07eac6be.js.map",
+    "main.945638fd.css.map": "/static/css/main.945638fd.css.map",
+    "main.4fe40e63.js.map": "/static/js/main.4fe40e63.js.map",
     "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ecd81a5.css",
-    "static/js/main.07eac6be.js"
+    "static/css/main.945638fd.css",
+    "static/js/main.4fe40e63.js"
   ]
 }
