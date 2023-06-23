@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b974417.css",
-    "main.js": "/static/js/main.4fe40e63.js",
+    "main.css": "/static/css/main.467c7a73.css",
+    "main.js": "/static/js/main.4d810030.js",
     "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
     "static/media/hac_hero_landscape_projektmanagement_1920_1080.jpg": "/static/media/hac_hero_landscape_projektmanagement_1920_1080.3314641822e960e158c6.jpg",
+    "static/media/hac_hero_portrait_projektmanagement_1080_1920.jpg": "/static/media/hac_hero_portrait_projektmanagement_1080_1920.4337654a117be11654bf.jpg",
+    "static/media/hac_hero_portrait_bauueberwachung_1080_1920.jpg": "/static/media/hac_hero_portrait_bauueberwachung_1080_1920.6dd6463b0f9d288bfa7d.jpg",
     "static/media/hac_hero_landscape_bauueberwachung_1920_1080.jpg": "/static/media/hac_hero_landscape_bauueberwachung_1920_1080.128486f02613e7871ba0.jpg",
     "static/media/hac_hero_landscape_projektentwicklung_1920_1080.jpg": "/static/media/hac_hero_landscape_projektentwicklung_1920_1080.5f3408a656d363a6212d.jpg",
+    "static/media/hac_hero_portrait_projektentwicklung_1080_1920.jpg": "/static/media/hac_hero_portrait_projektentwicklung_1080_1920.47ceb776fbd5d0a0ab7e.jpg",
     "static/media/hac_projektmanagement_1024_1274.jpg": "/static/media/hac_projektmanagement_1024_1274.83c88756aac318895da6.jpg",
     "static/media/hac_desk_kontakt_plan_1920.jpg": "/static/media/hac_desk_kontakt_plan_1920.f465ef2e4c96c692d324.jpg",
     "static/media/hac_bauueberwachung_1024_1274.jpg": "/static/media/hac_bauueberwachung_1024_1274.d30dc7657d1dce2faf22.jpg",
     "static/media/hac_hero_landscape_controllingplus_1920_1080.jpg": "/static/media/hac_hero_landscape_controllingplus_1920_1080.1d47ae778a80947e02c2.jpg",
+    "static/media/hac_hero_portrait_controllingplus_1080_1920.jpg": "/static/media/hac_hero_portrait_controllingplus_1080_1920.af482a22e6f7f1e1441f.jpg",
     "static/media/hac_projektentwicklung_1024_1274.jpg": "/static/media/hac_projektentwicklung_1024_1274.20f71e83836bd52e517f.jpg",
     "static/media/hac_controllingplus_1024_1274.jpg": "/static/media/hac_controllingplus_1024_1274.5efabffb420d10fc8727.jpg",
     "static/media/hac_standortkarte_1024_1274_mit_Location.jpg": "/static/media/hac_standortkarte_1024_1274_mit_Location.f65f9ca17c5e0b9ea1c4.jpg",
@@ -46,12 +50,12 @@
     "static/media/gvl_logo_rgb_weiss_grau.png": "/static/media/gvl_logo_rgb_weiss_grau.842c2d5888e7bde623db.png",
     "static/media/hac_header_location.svg": "/static/media/hac_header_location.3e9bf820513562375b43eb19edd683d0.svg",
     "index.html": "/index.html",
-    "main.0b974417.css.map": "/static/css/main.0b974417.css.map",
-    "main.4fe40e63.js.map": "/static/js/main.4fe40e63.js.map",
+    "main.467c7a73.css.map": "/static/css/main.467c7a73.css.map",
+    "main.4d810030.js.map": "/static/js/main.4d810030.js.map",
     "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b974417.css",
-    "static/js/main.4fe40e63.js"
+    "static/css/main.467c7a73.css",
+    "static/js/main.4d810030.js"
   ]
 }
