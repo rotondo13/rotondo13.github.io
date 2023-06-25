@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7208022.css",
-    "main.js": "/static/js/main.21c7533a.js",
+    "main.js": "/static/js/main.25293f72.js",
     "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
     "static/media/hac_hero_landscape_projektmanagement_1920_1080.jpg": "/static/media/hac_hero_landscape_projektmanagement_1920_1080.3314641822e960e158c6.jpg",
     "static/media/hac_hero_portrait_projektmanagement_1080_1920.jpg": "/static/media/hac_hero_portrait_projektmanagement_1080_1920.4337654a117be11654bf.jpg",
@@ -51,11 +51,11 @@
     "static/media/hac_header_location.svg": "/static/media/hac_header_location.3e9bf820513562375b43eb19edd683d0.svg",
     "index.html": "/index.html",
     "main.c7208022.css.map": "/static/css/main.c7208022.css.map",
-    "main.21c7533a.js.map": "/static/js/main.21c7533a.js.map",
+    "main.25293f72.js.map": "/static/js/main.25293f72.js.map",
     "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7208022.css",
-    "static/js/main.21c7533a.js"
+    "static/js/main.25293f72.js"
   ]
 }
