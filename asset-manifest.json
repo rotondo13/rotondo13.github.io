@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8dc214a3.css",
-    "main.js": "/static/js/main.aeeadde1.js",
+    "main.css": "/static/css/main.c9190b97.css",
+    "main.js": "/static/js/main.21c7533a.js",
     "static/js/787.0c3f432a.chunk.js": "/static/js/787.0c3f432a.chunk.js",
     "static/media/hac_hero_landscape_projektmanagement_1920_1080.jpg": "/static/media/hac_hero_landscape_projektmanagement_1920_1080.3314641822e960e158c6.jpg",
     "static/media/hac_hero_portrait_projektmanagement_1080_1920.jpg": "/static/media/hac_hero_portrait_projektmanagement_1080_1920.4337654a117be11654bf.jpg",
@@ -50,12 +50,12 @@
     "static/media/gvl_logo_rgb_weiss_grau.png": "/static/media/gvl_logo_rgb_weiss_grau.842c2d5888e7bde623db.png",
     "static/media/hac_header_location.svg": "/static/media/hac_header_location.3e9bf820513562375b43eb19edd683d0.svg",
     "index.html": "/index.html",
-    "main.8dc214a3.css.map": "/static/css/main.8dc214a3.css.map",
-    "main.aeeadde1.js.map": "/static/js/main.aeeadde1.js.map",
+    "main.c9190b97.css.map": "/static/css/main.c9190b97.css.map",
+    "main.21c7533a.js.map": "/static/js/main.21c7533a.js.map",
     "787.0c3f432a.chunk.js.map": "/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dc214a3.css",
-    "static/js/main.aeeadde1.js"
+    "static/css/main.c9190b97.css",
+    "static/js/main.21c7533a.js"
   ]
 }
