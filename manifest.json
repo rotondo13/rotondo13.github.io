@@ -1,9 +1,9 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "ha consult",
+  "name": "ha consult",
   "icons": [
     {
-      "src": "src/media/ha-consult-logo.png",
+      "src": "src/media/Logos_Grafiken/hac_logo_rgb_weiss_gruen.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     }
